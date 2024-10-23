@@ -1,7 +1,8 @@
 # Security Devroom @ FOSDEM'2025
 
-[FOSDEM 2025](https://fosdem.org/2025/) may have a security devroom,
-and this repository is used for planning it.
+[FOSDEM 2025](https://fosdem.org/2025/) will have a [security
+devroom](https://fosdem.org/2025/schedule/track/security/), and this
+repository is used for planning it.
 
 ## Our topics this year
 
