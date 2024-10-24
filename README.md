@@ -4,6 +4,9 @@
 devroom](https://fosdem.org/2025/schedule/track/security/), and this
 repository is used for planning it.
 
+The security devroom is planned for the whole **Saturday, February
+1th, 2025** in Brussels, Belgium at [ULB](http://www.ulb.ac.be/).
+
 ## Our topics this year
 
 This is the Security Devroom and we invite you to submit a talk that
