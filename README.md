@@ -19,13 +19,15 @@ regardless of topic, but some suggested topics include:
 - Cryptography: classic and post-quantum
 - Hardware-assisted security improvements
 - Security hardening, vulnerability handling and threat detection
+- Secure development tools and practices
 
 ### Organizers
 
   * You! - any help with organizing is highly appreciated!
   * Lukas Vrabec
-  * Jakub Jelen
+  * Jakub Jelen <jakuje@gmail.com>
   * Simon Josefsson <simon@josefsson.org> Mastodon: [@jas4711](https://infosec.exchange/web/@jas4711)
+  * Matteo Lodi
 
 ### Contact
 
