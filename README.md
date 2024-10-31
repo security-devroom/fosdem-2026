@@ -55,6 +55,7 @@ everyone attending to follow it.
   * Lukas Vrabec
   * Jakub Jelen <jakuje@gmail.com>
   * Matteo Lodi
+  * Tomas Mraz
   * Simon Josefsson <simon@josefsson.org> Mastodon: [@jas4711](https://infosec.exchange/web/@jas4711)
 
 ### Contact
