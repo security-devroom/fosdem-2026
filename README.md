@@ -16,20 +16,20 @@ is relevant to security in the free software and open source world.
 We want to encourage all interesting security-related presentation
 regardless of topic, but some suggested topics include:
 
-- Supply chain security: Trust and verifiability
-- Software quality tools and best practices
-- Cryptography: classic and post-quantum
-- Hardware-assisted security improvements
-- Security hardening, vulnerability handling and threat detection
-- Secure development tools and practices
+- Supply chain security: Trust and verifiability.
+- Software quality tools and best practices.
+- Cryptography: classic and post-quantum.
+- Hardware-assisted security improvements.
+- Security hardening, vulnerability handling and threat detection.
+- Secure development tools and practices.
 
 ## Important Dates
 
-Submission open: 30th October 2024
-Submission deadline: 1st December 2024
-Acceptance notifications: 6th December
-Final schedule announcement: 15th December 2024
-Devroom: February 1st 2025
+- Submission open: 30th October 2024.
+- Submission deadline: 1st December 2024.
+- Acceptance notifications: 6th December.
+- Final schedule announcement: 15th December 2024.
+- Devroom: February 1st 2025.
 
 ## Proposals
 
