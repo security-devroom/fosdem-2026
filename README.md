@@ -23,6 +23,9 @@ regardless of topic, but some suggested topics include:
 - Security hardening, vulnerability handling and threat detection.
 - Secure development tools and practices.
 
+Suggested duration for a timeslot to apply for is **25 minutes**
+(20 min presentation + 5 mins questions).
+
 ## Important Dates
 
 - Submission open: 30th October 2024.
