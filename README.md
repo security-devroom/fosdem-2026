@@ -17,7 +17,7 @@ regardless of topic, but some suggested topics include:
 
 - Supply chain security: Trust and verifiability.
 - Software quality tools and best practices.
-- Cryptography: classic and post-quantum.
+- Cryptography: classic, post-quantum and transition.
 - Hardware-assisted security improvements.
 - Security hardening, vulnerability handling and threat detection.
 - Secure development tools and practices.
