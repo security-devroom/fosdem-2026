@@ -21,6 +21,7 @@ regardless of topic, but some suggested topics include:
 - Hardware-assisted security improvements.
 - Security hardening, vulnerability handling and threat detection.
 - Secure development tools and practices.
+- AI Security: design, models, deployment.
 
 Suggested duration for a timeslot to apply for is **25 minutes**
 (20 min presentation + 5 mins questions).
