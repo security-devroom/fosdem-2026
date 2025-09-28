@@ -60,6 +60,7 @@ everyone attending to follow it.
   * Matteo Lodi - [X](https://x.com/matte_lodi) - [Lnkdn](https://www.linkedin.com/in/matteo-lodi-90/)
   * Tomas Mraz
   * Simon Josefsson <simon@josefsson.org> Mastodon: [@jas](https://fosstodon.org/@jas)
+  * [@martinpaljak](https://github.com/martinpaljak)
 
 ### Contact
 
